@@ -1,7 +1,6 @@
 #### Hi there 👋
 - 🔭 I’m currently working on [whatsoo](https://github.com/Whatsoo)
 - 🌱 I’m currently learning [Rust:crab:](https://www.rust-lang.org/)
-- 🤔 I’m looking for a girl friend
 <!--
 **NOVA-ME/NOVA-ME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
