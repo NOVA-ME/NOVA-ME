@@ -1,4 +1,4 @@
-#### Hi everyones 👋 nice to meet you.
+#### Hi everyone 👋 nice to meet you.
 - 🔭 I’m currently working on [whatsoo](https://github.com/Whatsoo)
 - 🌱 I’m currently learning [Rust:crab:](https://www.rust-lang.org/)
 <!--
