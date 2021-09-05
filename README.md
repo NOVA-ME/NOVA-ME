@@ -1,6 +1,8 @@
-#### Hi everyone 👋 nice to meet you.
+#### ✨Hi everyone 👋 nice to meet you✨
 - 🔭 I’m currently working on [whatsoo](https://github.com/Whatsoo)
-- 🌱 I’m currently learning [Rust:crab:](https://www.rust-lang.org/)
+- 🌱 I like [Java:heart:](https://github.com/openjdk/) and [Rust:crab:](https://github.com/rust-lang)
+- 💻 I use [ArchLinux](https://archlinux.org/)
+- ⚛️ My favorite color schema [gruvbox dark](https://github.com/morhetz/gruvbox)
 <!--
 **NOVA-ME/NOVA-ME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
