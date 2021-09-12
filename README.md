@@ -1,4 +1,4 @@
-#### ✨Hi everyone 👋 nice to meet you✨
+### ✨Hi everyone 👋 nice to meet you✨
 - 🔭 I’m currently working on [whatsoo](https://github.com/Whatsoo)
 - 🌱 I like [Java](https://github.com/openjdk/) and [Rust](https://github.com/rust-lang)
 - 💻 :heart: [ArchLinux](https://archlinux.org/)
