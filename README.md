@@ -1,6 +1,6 @@
 ### ✨Hi everyone 👋 nice to meet you✨
 - 🔭 I’m currently working on [whatsoo](https://github.com/Whatsoo)
-- 🌱 I am [Gopher](https://golang.org) and [Rustacean](https://github.com/rust-lang)
+- 🌱 [Gopher](https://golang.org) and [Rustacean](https://github.com/rust-lang)
 - 💻 :heart: [ArchLinux](https://archlinux.org)
 - ⚛️ My favorite color schema [gruvbox dark](https://github.com/morhetz/gruvbox)
 <!--
