@@ -1,7 +1,7 @@
 ### ✨Hi everyone 👋 nice to meet you✨
 - 🔭 I’m currently working on [whatsoo](https://github.com/Whatsoo)
-- 🌱 I like [Java](https://github.com/openjdk/) and [Rust](https://github.com/rust-lang)
-- 💻 :heart: [ArchLinux](https://archlinux.org/)
+- 🌱 I am [Gopher](https://golang.org) and [Rustacean](https://github.com/rust-lang)
+- 💻 :heart: [ArchLinux](https://archlinux.org)
 - ⚛️ My favorite color schema [gruvbox dark](https://github.com/morhetz/gruvbox)
 <!--
 **NOVA-ME/NOVA-ME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
