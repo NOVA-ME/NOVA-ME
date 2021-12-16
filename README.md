@@ -3,7 +3,6 @@
 - 🌱 [Rustacean](https://github.com/rust-lang)
 - 💻 :heart: [ArchLinux](https://archlinux.org/)
 - ⚛️ My favorite color schema [gruvbox dark](https://github.com/morhetz/gruvbox)
-- 🔭 I'm looking for a full time job, focus on java web programming
 <!--
 **NOVA-ME/NOVA-ME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
